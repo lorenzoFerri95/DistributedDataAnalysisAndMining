@@ -1,0 +1,6 @@
+----- DDAM
+server:   hpsa04@kddrtserver11.isti.cnr.it
+passw:    hpsa04passm2020
+
+server:   hpsa10@kddrtserver12.isti.cnr.it
+passw:    hpsa10passm2020
